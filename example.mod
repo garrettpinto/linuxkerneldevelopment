@@ -1,0 +1,2 @@
+/home/vagrant/example.o
+
